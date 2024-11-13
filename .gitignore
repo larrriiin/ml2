@@ -3,3 +3,14 @@
 /HW02/Data
 /HW03/MNIST
 /HW04/Data
+/HW05/Data
+HW05/4.5
+HW05/best_model.pth
+HW05/best_model_fold_0.pth
+HW05/best_model_fold_1.pth
+HW05/best_model_fold_2.pth
+HW05/best_model_fold_3.pth
+HW05/best_model_fold_4.pth
+/HW05/drive
+/HW05/train
+/HW05/val
